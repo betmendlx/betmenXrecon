@@ -1,0 +1,9 @@
+beautifulsoup4
+colorama
+dnspython
+lxml
+python-nmap
+python-whois
+requests
+webtech
+pyfiglet
